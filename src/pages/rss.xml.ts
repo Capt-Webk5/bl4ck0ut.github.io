@@ -14,17 +14,19 @@ export async function GET(context: APIContext) {
     title: siteConfig.title,
     description: siteConfig.subtitle || 'No description',
     site: context.site ?? 'https://fuwari.vercel.app',
-    items: blog.map(post => {
-      return {
-        title: post.data.title,
-        pubDate: post.data.published,
-        description: post.data.description || '',
-        link: `/posts/${post.slug}/`,
-        content: sanitizeHtml(parser.render(post.body), {
-          allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img']),
-        }),
-      }
-    }),
+    items: blog
+      .filter(post => typeof post.body === 'string' && post.body.trim() !== '') // Chỉ lấy bài viết có nội dung hợp lệ
+      .map(post => {
+        return {
+          title: post.data.title,
+          pubDate: post.data.published,
+          description: post.data.description || '',
+          link: `/posts/${post.slug}/`,
+          content: sanitizeHtml(parser.render(String(post.body ?? '')), {
+            allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img']),
+          }),
+        }
+      }),
     customData: `<language>${siteConfig.lang}</language>`,
   })
 }

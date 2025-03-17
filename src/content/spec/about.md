@@ -1,9 +1,17 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
+>Hello Guy!. I'm VanPhuc `[pwn4s0n1c]`. I am currently studying at Vietnam - Korea University of Information Technology and Communications, majoring in information security.      
+> `Member VKU Security Lab: ` `VSL`
+# Maxim
+> Don't compare yourself with others, compare yourself with yourself yesterday.🏴
+# Contact
+> Email: Phucvv.23ns@vku.udn.vn
+## Chill Guy!
+<iframe style="border-radius:12px" 
+        src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M?utm_source=generator" 
+        width="100%" 
+        height="450" 
+        frameBorder="0" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+        loading="lazy">
+</iframe>
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
