@@ -22,7 +22,7 @@ lang: vi
 ## 3v@l
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 1,885 giải quyết / 200 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★☆☆☆☆☆☆☆☆☆
 ### Lý lịch
@@ -42,7 +42,7 @@ Phát hiện chúng đã có bộ lọc regex để tránh thực thi các lện
 ## Apriti sesamo
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 1,016 giải quyết / 300 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★★★☆☆☆☆☆☆☆
 ### Lý lịch
@@ -93,7 +93,7 @@ Những gì chúng tôi học được:
 ## Pachinko
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 978 giải quyết / 300 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★★★★☆☆☆☆☆☆
 ### Lý lịch

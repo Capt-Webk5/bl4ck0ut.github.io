@@ -23,7 +23,7 @@ lang: vi
 ## Cookie Monster Secret Recipe
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 5,910 giải quyết / 50 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★☆☆☆☆☆☆☆☆☆
 ### Lý lịch
@@ -44,7 +44,7 @@ Những gì chúng ta học được:
 ## head-dump
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 4,085 giải quyết / 50 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★☆☆☆☆☆☆☆☆☆
 ### Lý lịch
@@ -75,7 +75,7 @@ Những gì chúng ta học được
 ## n0s4n1ty 1
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 2,691 giải quyết / 100 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★★☆☆☆☆☆☆☆☆
 ### Lý lịch
@@ -110,7 +110,7 @@ Những gì đã học được
 ## SSTI1
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 2,833 giải quyết / 100 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★☆☆☆☆☆☆☆☆☆
 ### Lý lịch
@@ -139,7 +139,7 @@ Những gì đã học được
 ## WebSockFish
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 1,022 giải quyết / 200 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★★☆☆☆☆☆☆☆☆
 ### Lý lịch
@@ -166,7 +166,7 @@ Những gì chúng tôi đã học được:
 ## SSTI2
 ### Tổng quan
 > Người đóng góp : <b>tr1ck3r</b> <br>
-> Được giải quyết bởi: <b>Pwn4s0n1c</b> <br>
+> Được giải quyết bởi: <b>bl4ck0ut</b> <br>
 > 1,741 giải quyết / 200 point <br>
 > Độ khó chung đối với chúng tôi (từ 1 - 10 sao): ★☆☆☆☆☆☆☆☆☆
 ### Lý lịch

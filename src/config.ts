@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Pwn4s0n1c',
-  subtitle: 'CTFer',
+  title: 'bl4ck0ut',
+  subtitle: '',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -43,17 +43,17 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'MyBook',
-      url: 'https://tinhte.vn/thread/tu-duy-nguoc-tac-gia-nguyen-anh-dung-phan-1-ban-da-song-cuoc-doi-the-nao.3812145/',     // Internal links should not include the base path, as it is automatically added
+      name: 'Blog Pentest',
+      url: 'https://blog.lexfo.fr/category/ambionics-web-exploitation.html',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/me.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Pwn4s0n1c',
-  bio: 'Hi Guy !',
+  avatar: 'assets/images/tome.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: 'bl4ck0ut',
+  bio: '</pentest>',
   links: [
     {
       name: 'FaceBook',
