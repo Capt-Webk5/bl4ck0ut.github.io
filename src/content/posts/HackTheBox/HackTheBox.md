@@ -210,6 +210,7 @@ Sử dụng cloudflared để host nội bộ của tôi.
 Bây giờ cùng truy cập vào web nhé và đã thành công leak được file: /etc/passwd
 ![alt text](image-15.png)
 ![alt text](image-14.png)
-Trigger Flag: <b>HTB{pdF_g3n3r4t1on_g03s_brrr!}</b>
 
+Trigger Flag: <b>HTB{pdF_g3n3r4t1on_g03s_brrr!}</b>
+<img width="524" height="683" alt="image" src="https://github.com/user-attachments/assets/5af6c993-0cca-46f0-b6b7-fee4314e53c5" />
 
